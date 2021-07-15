@@ -1,0 +1,26 @@
+html {
+  background-color: #fafafa;
+}
+
+.App {
+  text-align: center;
+  margin: 5% 0;
+  flex-grow: 1;
+
+  .title {
+    margin-bottom: 5%;
+  }
+
+  #todo {
+    margin-bottom: 3%;
+  }
+
+  #desc {
+    margin-bottom: 3%;
+  }
+
+  section {
+    margin: 5% 20%;
+    background-color: white;
+  }
+}
